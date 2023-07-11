@@ -1,0 +1,108 @@
+body
+{
+	margin: 0;
+	height: 100%;
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+	/* background-color: #E2E2E2!important; */
+}
+.navbar{
+	background-color: rgb(0,127,137);
+	color: rgb(253, 253, 253) !important;
+}
+.text-color{
+	color:rgb(77, 2, 105);
+}
+.bg-primary{
+	background-color:  rgb(77, 2, 105);
+}
+.btn-primary{
+background-color: rgb(77, 2, 105);
+color: #fff;
+}
+
+.appname
+{
+	color: #F3B000;
+	text-decoration: none;
+	
+}
+
+.courses{
+	border: 0;
+	border-bottom: 2px solid rgb(77, 2, 105);
+	width: 100%;
+	
+}
+
+.border-color
+{
+	border-color: rgb(77, 2, 105);
+}
+
+.custom-bg-2
+{
+	background:rgb(77, 2, 105);
+}
+
+.custom-bg-3
+{
+	background:#F3B000!important;
+}
+
+.custom-bg-4
+{
+	background:#9AB1AB!important;
+}
+
+.text-dark-color
+{
+	color:#0B3B2D;
+}
+
+.text-light-color
+{
+	color:#6B826E;
+}
+
+.admin .card{
+	border: 1px solid #0B3B2D;
+}
+
+.card-columns:hover{
+	background:cover;
+	cursor:pointer;
+}
+
+.card:hover{
+	background:cover;
+	cursor:pointer;
+}
+
+.list-group-item-action active
+{
+	background:#F3B000!important;
+	border-color:#F3B000!important;
+}
+
+.mid-align:before {
+  content: '';
+  display: inline-block;
+  height: 100%; 
+  vertical-align: middle;
+  margin-right: -0.25em;
+    
+ }
+ 
+ .non-underline-link{
+   text-decoration: none !important;
+}
+
+.bcontent {
+            margin-top: 10px;
+        }
+        
+        .modal-size {
+    max-width: 80% !important;
+}
+        
